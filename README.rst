@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fshuiqing05%2Fpatroni.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fshuiqing05%2Fpatroni?ref=badge_shield)
+
 |Build Status| |Coverage Status|
 
 Patroni: A Template for PostgreSQL HA with ZooKeeper, etcd or Consul
@@ -144,3 +146,7 @@ When connecting from an application, always use a non-superuser. Patroni require
    :target: https://travis-ci.org/zalando/patroni
 .. |Coverage Status| image:: https://coveralls.io/repos/zalando/patroni/badge.svg?branch=master
    :target: https://coveralls.io/r/zalando/patroni?branch=master
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fshuiqing05%2Fpatroni.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fshuiqing05%2Fpatroni?ref=badge_large)
